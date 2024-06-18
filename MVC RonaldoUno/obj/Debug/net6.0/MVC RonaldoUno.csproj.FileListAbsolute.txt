@@ -1,0 +1,39 @@
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\bin\Debug\net6.0\appsettings.Development.json
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\bin\Debug\net6.0\appsettings.json
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\bin\Debug\net6.0\MVC RonaldoUno.staticwebassets.runtime.json
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\bin\Debug\net6.0\MVC RonaldoUno.exe
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\bin\Debug\net6.0\MVC RonaldoUno.deps.json
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\bin\Debug\net6.0\MVC RonaldoUno.runtimeconfig.json
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\bin\Debug\net6.0\MVC RonaldoUno.dll
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\bin\Debug\net6.0\MVC RonaldoUno.pdb
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\bin\Debug\net6.0\Dapper.dll
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\MVC RonaldoUno.csproj.AssemblyReference.cache
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\MVC RonaldoUno.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\MVC RonaldoUno.AssemblyInfoInputs.cache
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\MVC RonaldoUno.AssemblyInfo.cs
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\MVC RonaldoUno.csproj.CoreCompileInputs.cache
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\MVC RonaldoUno.MvcApplicationPartsAssemblyInfo.cache
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\MVC RonaldoUno.RazorAssemblyInfo.cache
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\MVC RonaldoUno.RazorAssemblyInfo.cs
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\staticwebassets\msbuild.MVC RonaldoUno.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC RonaldoUno.props
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC RonaldoUno.props
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC RonaldoUno.props
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\staticwebassets.pack.json
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\staticwebassets.build.json
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\staticwebassets.development.json
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\scopedcss\bundle\MVC RonaldoUno.styles.css
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\scopedcss\projectbundle\MVC RonaldoUno.bundle.scp.css
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\MVC RonaldoUno.csproj.CopyComplete
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\MVC RonaldoUno.dll
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\refint\MVC RonaldoUno.dll
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\MVC RonaldoUno.pdb
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\MVC RonaldoUno.genruntimeconfig.cache
+D:\2024\TSC AspNETCore MVC Dos\MVC RonaldoUno\MVC RonaldoUno\obj\Debug\net6.0\ref\MVC RonaldoUno.dll
